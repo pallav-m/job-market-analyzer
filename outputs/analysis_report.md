@@ -1,29 +1,27 @@
 # Finance/Fintech Job Market Analysis Report
 
-**Generated:** 2026-01-17 13:05:44
+**Generated:** 2026-01-17 15:05:32
 
 ---
 
 ## Executive Summary
 
-- **Total Jobs Analyzed:** 261
-- **Unique Skills Identified:** 19
-- **Average Skills per Job:** 1.5
-- **Jobs Processed:** 261/261
+- **Total Jobs Analyzed:** 25
+- **Unique Skills Identified:** 3
+- **Average Skills per Job:** 0.2
+- **Jobs Processed:** 25/25
 
 ### Geographic Distribution
 
-- **India:** 121 jobs (46.4%)
-- **UK:** 60 jobs (23.0%)
-- **USA:** 80 jobs (30.7%)
+- **India:** 15 jobs (60.0%)
+- **USA:** 10 jobs (40.0%)
 
 
 ### Job Category Distribution
 
-- **analytics_data:** 66 jobs (25.3%)
-- **fintech:** 12 jobs (4.6%)
-- **risk_compliance:** 52 jobs (19.9%)
-- **traditional_finance:** 131 jobs (50.2%)
+- **analytics_data:** 8 jobs (32.0%)
+- **risk_compliance:** 3 jobs (12.0%)
+- **traditional_finance:** 14 jobs (56.0%)
 
 ---
 
@@ -31,65 +29,36 @@
 
 | Rank | Skill | Mentions | Category | Required % |
 |------|-------|----------|----------|------------|
-| 1 | **Data Analysis** | 48 | Data Analytics | 75.0% |
-| 2 | **Compliance** | 48 | Risk & Compliance | 37.5% |
-| 3 | **Financial Reporting** | 43 | Finance Core | 93.0% |
-| 4 | **Risk Management** | 33 | Risk & Compliance | 78.8% |
-| 5 | **Forecasting** | 33 | Finance Core | 78.8% |
-| 6 | **Budgeting** | 33 | Finance Core | 97.0% |
-| 7 | **Financial Modeling** | 31 | Finance Core | 96.8% |
-| 8 | **Excel** | 18 | Data Analytics | 94.4% |
-| 9 | **AWS** | 15 | Emerging Tech | 86.7% |
-| 10 | **SQL** | 12 | Data Analytics | 100.0% |
-| 11 | **SAP** | 12 | Software/ERP | 91.7% |
-| 12 | **Power BI** | 12 | Data Analytics | 83.3% |
-| 13 | **Azure** | 11 | Emerging Tech | 100.0% |
-| 14 | **Python** | 9 | Data Analytics | 100.0% |
-| 15 | **Machine Learning** | 9 | Emerging Tech | 100.0% |
-| 16 | **Tableau** | 8 | Data Analytics | 100.0% |
-| 17 | **QuickBooks** | 8 | Software/ERP | 100.0% |
-| 18 | **Oracle** | 6 | Software/ERP | 100.0% |
-| 19 | **R** | 5 | Data Analytics | 100.0% |
+| 1 | **Forecasting** | 3 | Finance Core | 0.0% |
+| 2 | **Risk Management** | 1 | Risk & Compliance | 0.0% |
+| 3 | **Budgeting** | 1 | Finance Core | 0.0% |
 
 
 ## AI & Emerging Tech Adoption
 
 | Country | Total Jobs | AI/Tech Jobs | Adoption % |
 |---------|------------|--------------|------------|
-| UK | 60 | 10 | 16.7% |
-| USA | 80 | 13 | 16.3% |
-| India | 121 | 13 | 10.7% |
+| India | 15 | 0 | 0.0% |
+| USA | 10 | 0 | 0.0% |
 
 
 ## Skills by Requirement Level
 
 | Level | Mentions | Percentage |
 |-------|----------|------------|
-| **Required** | 327 | 83.0% |
-| **Optional** | 67 | 17.0% |
+| **Optional** | 5 | 100.0% |
 
 
 ## Skills with Experience Requirements
 
-| Skill | Avg Years Required | Mentions |
-|-------|-------------------|----------|
-| **Financial Reporting** | 5.1 years | 40 |
-| **Data Analysis** | 4.8 years | 35 |
-| **Budgeting** | 4.8 years | 32 |
-| **Financial Modeling** | 4.6 years | 31 |
-| **Forecasting** | 4.6 years | 26 |
-| **Risk Management** | 5.0 years | 23 |
-| **Excel** | 5.1 years | 18 |
-| **Compliance** | 4.5 years | 16 |
-| **AWS** | 4.8 years | 13 |
-| **SQL** | 5.0 years | 12 |
+*No experience requirements detected in current dataset.*
 
 
 ## Key Findings
 
-1. **Most In-Demand Skill:** Data Analysis appears in 48 job postings
-2. **Tech Skills Prevalence:** 5 of top 20 skills are technical
-3. **AI/Emerging Tech:** Average 14.6% of jobs require AI or cloud skills
+1. **Most In-Demand Skill:** Forecasting appears in 3 job postings
+2. **Tech Skills Prevalence:** 0 of top 20 skills are technical
+3. **AI/Emerging Tech:** Average 0.0% of jobs require AI or cloud skills
 
 ---
 
@@ -97,20 +66,15 @@
 
 Based on this analysis:
 
-1. **Priority Topic 1:** Data Analysis - Highest demand with 48 mentions
-2. **Priority Topic 2:** Compliance - 48 mentions across categories
-3. **Priority Topic 3:** Financial Reporting - 43 mentions
+1. **Priority Topic 1:** Forecasting - Highest demand with 3 mentions
+2. **Priority Topic 2:** Risk Management - 1 mentions across categories
+3. **Priority Topic 3:** Budgeting - 1 mentions
 
 **Conclusion:** Strong demand for finance + analytics roles. Launch category is **recommended**.
 ### Data Sources
 
-- **indeed_in:** 84 jobs
-- **indeed_com:** 53 jobs
-- **mock_generator:** 50 jobs
-- **indeed_co.uk:** 49 jobs
 - **linkedin_in:** 15 jobs
-- **linkedin_com:** 9 jobs
-- **manual_test:** 1 jobs
+- **linkedin_com:** 10 jobs
 
 
 
